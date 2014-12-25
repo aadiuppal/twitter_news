@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/comp/AndroidStudioProjects/TD%20Simple%20RSS%20Reader-3/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Twitter News</string>
+    <string name="date">Date goes here!</string>
+    <string name="desc">Description goes here!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="linkLabel">Link to web: </string>
+    <string name="linkText">Link goes here!</string>
+    <string name="loading">Loading please wait…</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title">Title goes here!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- From: file:/home/comp/AndroidStudioProjects/TD%20Simple%20RSS%20Reader-3/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

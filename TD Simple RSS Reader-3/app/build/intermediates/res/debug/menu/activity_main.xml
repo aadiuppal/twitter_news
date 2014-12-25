@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/refresh_option"
+        android:icon="@drawable/action_refresh"
+        android:showAsAction="ifRoom"
+        android:title="Refresh"/>
+    <item
+        android:id="@+id/about_option"
+        android:icon="@drawable/action_about"
+        android:showAsAction="ifRoom"
+        android:title="About Me"/>
+
+</menu><!-- From: file:/home/comp/AndroidStudioProjects/TD%20Simple%20RSS%20Reader-3/app/src/main/res/menu/activity_main.xml -->

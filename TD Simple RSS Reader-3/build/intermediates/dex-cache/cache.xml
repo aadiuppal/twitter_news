@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/comp/AndroidStudioProjects/TD Simple RSS Reader-3/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-92691e82529fa7654262c26f0a5730425e758c19.jar"
+        jar="/home/comp/Desktop/workspace/adt-bundle-linux-x86-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/comp/AndroidStudioProjects/TD Simple RSS Reader-3/app/build/intermediates/pre-dexed/debug/jsoup-1.7.1-a697d5c3d07a9d4f98d24bdf9f0ec24381ab10d0.jar"
+        jar="/home/comp/AndroidStudioProjects/TD Simple RSS Reader-3/app/libs/jsoup-1.7.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5"/>
+
+</pre-dex-items>
